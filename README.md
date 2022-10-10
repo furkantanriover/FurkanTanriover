@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FurkanTanriover
-- 👀 I’m interested in web and mobile technologies
+- 👀 I’m interested in web, mobile and backend technologies
 - 🌱 I’m currently learning web, mobile and backend technologies
 - 🚀 2022 Goals: More application development and proficiency on technologies 
 

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e4702hloj223ibloevt3zhi2lrwcxwjsaskbc5hr6z3&rid=giphy.gif&ct=g)" width="200"/>
+  <img src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e4702hloj223ibloevt3zhi2lrwcxwjsaskbc5hr6z3&rid=giphy.gif&ct=g" width="200"/>
   <div id="badges" pt={2}>
   <a href="https://www.linkedin.com/in/furkan-tanri%C3%B6ver-5ab402191/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

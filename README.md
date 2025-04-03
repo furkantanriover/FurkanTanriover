@@ -17,7 +17,7 @@
 - 👋 I’m @FurkanTanriover
 - 👀 I’m working as a Software Engineer and contributing frontend for building web application and mobile application
 - 🚀 I’m currently learning web and mobile technologies
-- 🌱 2024 Goals: More application development and proficiency on technologies 
+- 🌱 2025 Goals: More application development and proficiency on technologies 
 
 ---
 
